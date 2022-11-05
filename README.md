@@ -4,3 +4,4 @@ The purpose of this analysis was to determine summary statistics for temperature
 
 ## Results
 - The average temperature during the month of June is ~75 degrees fahrenheit with a minimum of 64 and a maximum of 85 degrees.
+<img width="149" alt="June Temps" src="https://user-images.githubusercontent.com/109715441/200142772-060e7ccd-da8d-4974-8593-cb1079e48e7f.png">
